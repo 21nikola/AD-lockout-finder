@@ -1,9 +1,5 @@
 # 🔒 AD Lockout Finder (GUI)
 
-https://img.shields.io/badge/PowerShell-Script-blue
-https://img.shields.io/badge/status-active-success
-https://img.shields.io/badge/platform-Windows-lightgrey
-
 A PowerShell-based GUI tool designed to help system administrators quickly detect and troubleshoot Active Directory account lockouts.
 
 ---
